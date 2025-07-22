@@ -1,0 +1,18 @@
+---
+workspace: "D:/RAG"
+llm:
+  - name: deepseek-free-0528
+    baseurl: 
+    sk:
+    model:
+embedding:
+  - name: bge-m3
+    baseurl: 
+    sk:
+    model:
+rerank:
+  - name: bge-rerank
+    baseurl: 
+    sk:
+    model: 
+    
